@@ -1,0 +1,49 @@
+[ {
+  "patchName" : "Custom package name",
+  "options" : [ {
+    "key" : "PackageNameYouTube",
+    "value" : "app.rvx.youtube"
+  } ]
+}, {
+  "patchName" : "Custom branding name YouTube",
+  "options" : [ {
+    "key" : "AppName",
+    "value" : "YouTube𝕏"
+  } ]
+}, {
+  "patchName" : "Custom branding icon YouTube",
+  "options" : [ {
+    "key" : "AppIcon",
+    "value" : "branding"
+  } ]
+}, {
+  "patchName" : "Custom double tap length",
+  "options" : [ {
+    "key" : "DoubleTapLengthArrays",
+    "value" : "3, 5, 10, 15, 20, 30, 60, 120, 180"
+  } ]
+}, {
+  "patchName" : "Premium heading",
+  "options" : [ {
+    "key" : "UsePremiumHeading",
+    "value" : false
+  } ]
+}, {
+  "patchName" : "Theme",
+  "options" : [ {
+    "key" : "DarkThemeBackgroundColor",
+    "value" : "@android:color/black"
+  } ]
+}, {
+  "patchName" : "Overlay buttons",
+  "options" : [ {
+    "key" : "OutlineIcon",
+    "value" : false
+  } ]
+}, {
+  "patchName" : "SponsorBlock",
+  "options" : [ {
+    "key" : "OutlineIcon",
+    "value" : false
+  } ]
+} ]

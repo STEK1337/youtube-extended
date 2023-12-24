@@ -1,0 +1,7 @@
++ Add splash animation
++ Disable landscape mode
++ Hide double tap overlay filter
++ Hide player button background
++ Hide previous next button
++ Hide voice search button
+- Enable debug logging
