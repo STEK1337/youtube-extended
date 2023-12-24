@@ -31,7 +31,7 @@ jobs:
         run: | 
           echo "
           [Update Changelog](https://github.com/inotia00/revanced-patches/releases/latest)
-          > [!CAUTION]
+          > [!IMPORTANT]
           > [microG](https://github.com/inotia00/VancedMicroG/releases/download/v0.2.27.230755/microg.apk) is required for YouTube to work. Install it first.
           > When updating from v18.33.40 or lower to v18.34.xx or later, a clean install is recommended.
           "> ${{ github.workspace }}-CHANGELOG.txt
