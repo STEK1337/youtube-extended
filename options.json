@@ -39,6 +39,9 @@
   "options" : [ {
     "key" : "OutlineIcon",
     "value" : false
+  }, {
+    "key" : "WiderBottomPadding",
+    "value" : false  
   } ]
 }, {
   "patchName" : "SponsorBlock",
