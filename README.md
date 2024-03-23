@@ -19,3 +19,5 @@ Modified version of YouTube using ReVanced Extended patches by inotia00 & YT-Adv
 [inotia00](https://github.com/inotia00)
 
 [YT-Advanced](https://github.com/YT-Advanced)
+
+[anddea](https://github.com/anddea)
