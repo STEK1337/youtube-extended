@@ -2,7 +2,7 @@
   <p align="center"><img src ="https://visitcount.itsvg.in/api?id=STEK1337&label=Visitors&color=12&icon=0&pretty=false" />
 </a>
 
-<h1 align="center">YouTube𝕏</h1>
+<h1 align="center">YouTube Extended</h1>
 
 <p align="center">
   <img width="360" height="310" src="https://i.ibb.co/ts2GMG1/unnamed.png">
