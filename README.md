@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-Modified version of YouTube using ReVanced Extended patches by inotia00 & YT-Advanced
+Modified version of YouTube using ReVanced Extended patches by inotia00 & anddea
 </p>
 
 <h1 align="center">⭐ Credits</h1>
