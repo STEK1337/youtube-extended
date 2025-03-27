@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-Modified version of YouTube using ReVanced Extended patches by inotia00 & anddea
+Modified version of YouTube using ReVanced Extended patches by inotia00
 </p>
 
 <h1 align="center">⭐ Credits</h1>
@@ -17,7 +17,3 @@ Modified version of YouTube using ReVanced Extended patches by inotia00 & anddea
 [ReVanced](https://github.com/revanced)
 
 [inotia00](https://github.com/inotia00)
-
-[YT-Advanced](https://github.com/YT-Advanced)
-
-[anddea](https://github.com/anddea)
