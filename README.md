@@ -1,7 +1,3 @@
-<a href="https://visitcount.itsvg.in">
-  <p align="center"><img src ="https://visitcount.itsvg.in/api?id=STEK1337&label=Visitors&color=12&icon=0&pretty=false" />
-</a>
-
 <h1 align="center">YouTube Extended</h1>
 
 <p align="center">
