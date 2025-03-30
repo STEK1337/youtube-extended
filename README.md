@@ -18,5 +18,5 @@
 
 <h1 align="center">📜 Credits</h1>
 
-- [`Credits: ReVanced`](https://github.com/revanced)
-- [`Credits: inotia00`](https://github.com/inotia00)
+- [`ReVanced`](https://github.com/revanced)
+- [`inotia00`](https://github.com/inotia00)
