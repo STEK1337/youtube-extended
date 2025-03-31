@@ -4,9 +4,6 @@
     </picture>
 </h1>
 
-<h1 align="center">⭐ Overview</h1>
-<p align=center>Here you can download YouTube Extended, which is modified and extended with many functionalities that will certainly be useful to you.</p>
-
 <h1 align="center">🔥 Features</h1>
 
 - 🛑 **Ad-blocking**: blocks every kind of advertisement (who needs them?).
